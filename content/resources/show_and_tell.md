@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Instructions for an oral and written assignment on media studies.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-015-introduction-to-media-studies-fall-2003/e488373ff6b7accfc4629bad0ae73eb9_show_and_tell.pdf
+file: /media/courses/21l-015-introduction-to-media-studies-fall-2003/e488373ff6b7accfc4629bad0ae73eb9_show_and_tell.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Oral and Written Assignment #1: Section: Media "Show and Tell"'
 uid: e488373f-f6b7-accf-c462-9bad0ae73eb9
