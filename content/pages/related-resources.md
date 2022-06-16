@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Links to books and articles in the MIT Libraries collections related
+  to topics covered in the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
