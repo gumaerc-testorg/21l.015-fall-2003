@@ -5,6 +5,7 @@ file: /courses/21l-015-introduction-to-media-studies-fall-2003/e488373ff6b7accfc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Oral and Written Assignment #1: Section: Media "Show and Tell"'
 uid: e488373f-f6b7-accf-c462-9bad0ae73eb9
 ---
 Instructions for an oral and written assignment on media studies.
-

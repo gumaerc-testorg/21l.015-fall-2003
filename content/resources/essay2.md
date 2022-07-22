@@ -6,6 +6,7 @@ file: /courses/21l-015-introduction-to-media-studies-fall-2003/54513c44518eadacc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Essay 2: Thinking About Print Culture'
 uid: 54513c44-518e-adac-ca09-9a7492e12331
 ---
 Assignment to write a critical analysis of an aspect of contemporary print culture.
-
