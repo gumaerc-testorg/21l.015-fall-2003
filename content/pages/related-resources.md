@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Links to books and articles in the MIT Libraries collections related
+  to topics covered in the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 12daa445-73a2-7145-ad09-06176527a72d
 ---
