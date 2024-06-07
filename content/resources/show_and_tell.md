@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for an oral and written assignment on media studies.
 file: /courses/21l-015-introduction-to-media-studies-fall-2003/e488373ff6b7accfc4629bad0ae73eb9_show_and_tell.pdf
+file_size: 78222
 file_type: application/pdf
 learning_resource_types:
 - Assignments
