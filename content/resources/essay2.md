@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to write a critical analysis of an aspect of contemporary
   print culture.
-file: /courses/21l-015-introduction-to-media-studies-fall-2003/54513c44518eadacca099a7492e12331_essay2.pdf
+file: /ol-ocw-studio-app/courses/21l-015-introduction-to-media-studies-fall-2003/54513c44518eadacca099a7492e12331_essay2.pdf
 file_size: 91566
 file_type: application/pdf
 learning_resource_types:
