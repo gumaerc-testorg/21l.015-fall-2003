@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to analyze your own relationship to media with references
   to concepts presented in course readings, discussions and lectures.
-file: /ol-ocw-studio-app/courses/21l-015-introduction-to-media-studies-fall-2003/468f0cbdfe639336e8eac259d5b456d8_essay1media.pdf
+file: /courses/21l-015-introduction-to-media-studies-fall-2003/468f0cbdfe639336e8eac259d5b456d8_essay1media.pdf
 file_size: 69512
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Writing assignment on the power of a film as a vehicle for storytelling
   and/or cultural representation. '
-file: /ol-ocw-studio-app/courses/21l-015-introduction-to-media-studies-fall-2003/851db058fbf5d2c067164d9e78650a5c_essay3media.pdf
+file: /courses/21l-015-introduction-to-media-studies-fall-2003/851db058fbf5d2c067164d9e78650a5c_essay3media.pdf
 file_size: 90673
 file_type: application/pdf
 learning_resource_types:
