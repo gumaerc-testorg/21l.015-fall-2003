@@ -22,12 +22,12 @@ READINGS
 {{< tdclose >}}{{< tdopen >}}
 Introduction to the Course: A Comparative Approach to Media Studies: Storytelling Across Media
 {{< tdclose >}}{{< tdopen >}}
-"Imaginary Social Relationships" through Media      
+"Imaginary Social Relationships" through Media       
 Narratives across Different Cultures and Media
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
-Media Studies: An Interdisciplinary Field      
+Media Studies: An Interdisciplinary Field       
 Technology and Meaning: Concepts of "High" and "Low" Culture
 {{< tdclose >}}{{< tdopen >}}
 
@@ -46,15 +46,15 @@ Core Definitions: McLuhan
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
-Lab/Discussion Section: Show and Tell (Media Artifacts) - See Handout      
+Lab/Discussion Section: Show and Tell (Media Artifacts) - See Handout       
 Note: Sections meet in extended session for 1.5 hours.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-Approaches to Studying Media: The Concept of Commodity - The Frankfurt School and the Birmingham School      
-Questions of Ownership and Control of Media      
+Approaches to Studying Media: The Concept of Commodity - The Frankfurt School and the Birmingham School       
+Questions of Ownership and Control of Media       
 The Challenge of Cultural Pluralism
 {{< tdclose >}}{{< tdopen >}}
 
@@ -87,14 +87,14 @@ Early Tobacco Advertisements
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
-Screening/Discussion Section: The Power of Advertising      
+Screening/Discussion Section: The Power of Advertising       
 Documentary Film Screening
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-Key Media Debates: Influence, Representation, Control      
+Key Media Debates: Influence, Representation, Control       
 Guest Speaker: Prof. Mark Lloyd
 {{< tdclose >}}{{< tdopen >}}
 
@@ -140,7 +140,7 @@ Habermas, Jurgen. "The Public Sphere: An Encyclopedia Article." In *Critical The
 
 McChesney, Robert W. "[Journalism, Democracy, … and Class Struggle](http://monthlyreview.org/2000/11/01/journalism-democracy-and-class-struggle/)." *Monthly Review* 52, no. 6 (November 2000): 1-15.
 
-Screening/Discussion Section: Written Media: The Press: Frameworks and Biases in Presenting Information      
+Screening/Discussion Section: Written Media: The Press: Frameworks and Biases in Presenting Information       
 Documentary Film Screening
 
 ["Journalism, Democracy, … and Class Struggle"](http://monthlyreview.org/2000/11/01/journalism-democracy-and-class-struggle/)
@@ -166,7 +166,7 @@ Screening/Discussion Section: The Rise of Modern Mass Media: Early Silent Film i
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-The Documentary Mode: Photography and Film      
+The Documentary Mode: Photography and Film       
 Media and Social Reform
 {{< tdclose >}}{{< tdopen >}}
 
@@ -182,7 +182,7 @@ Selected Photographs of Lewis Hine and Jacob Riis.
 
 Photographs of Jacob Riis
 
-[Website: American Memory Collection Photos And Prints](http://memory.loc.gov/cgi-bin/query/S?ammem/collections:@field%28FLD003+@band%28origf+Photograph%29)
+American Memory Collection Photos And Prints
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -274,7 +274,7 @@ Uricchio, William. "[The Trouble With Television](http://tlweb.latrobe.edu.au/hu
 
 Grey, Herman. "The Politics of Representation in Network Television." In *Watching Race: Television and the Struggle for 'Blackness'.* Minneapolis: University of Minnesota Press, 1995. Pp. 70-92.
 
-Screening/Discussion Section: Episode 1, *Six Feet Under* (HBO 2001).      
+Screening/Discussion Section: Episode 1, *Six Feet Under* (HBO 2001).       
 "1961", *If These Walls Could Talk 2* (HBO 2000).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -333,7 +333,7 @@ Schank, R., M. Jona. "Empowering the Student: New Perspectives on the Design of 
 
 [Links To Lecture 27 Presentations](http://web.mit.edu/cms/Projects/index.html)
 
-Monday Lab: Panel/Discussion Section: Panel: Educational Applications of Digital Technology      
+Monday Lab: Panel/Discussion Section: Panel: Educational Applications of Digital Technology       
 Speakers: Profs. Peter Donaldson, Kurt Fendt, Edward Barrett, Wyn Kelley
 
 [Links To Lecture 27 Presentations](http://web.mit.edu/cms/Projects/index.html)
@@ -341,7 +341,7 @@ Speakers: Profs. Peter Donaldson, Kurt Fendt, Edward Barrett, Wyn Kelley
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 29-30
 {{< tdclose >}}{{< tdopen >}}
-Contemporary Issues: Media Convergence and Power in the Digital Age      
+Contemporary Issues: Media Convergence and Power in the Digital Age       
 Audiences as Producers and Receivers
 {{< tdclose >}}{{< tdopen >}}
 
