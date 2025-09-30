@@ -39,9 +39,9 @@ Kellner, Douglas. "Cultural Studies, Multiculturalism and Media Culture." In *Ge
 
 Core Definitions: McLuhan
 
-[The Official Marshall McLuhan Website](http://www.marshallmcluhan.com/)
+{{% resource_link "3671aaa6-7c68-41c5-845c-c555c44ac562" "The Official Marshall McLuhan Website" %}}
 
-[Wired Magazine's Marshall McLuhan Archive](https://mcluhangalaxy.wordpress.com/2010/07/28/other-wired-articles-on-marshall-mcluhan/)
+{{% resource_link "1b912683-dc5e-46b6-a85d-3feb445ffb99" "Wired Magazine's Marshall McLuhan Archive" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -102,19 +102,19 @@ Guest Speaker: Prof. Mark Lloyd
 
 Schiller, Herbert. "Not Yet the Post-Imperialist Era." *Critical Studies in Mass Communication* 8 (1991): 13-28.
 
-[Professor Jenkins Goes To Washington](http://web.mit.edu/cms/People/henry3/profjenkins.html)
+{{% resource_link "20d25a0c-7be6-4be6-aaf0-bd6a05260af3" "Professor Jenkins Goes To Washington" %}}
 
-[Key Debates in the Media Literacy Movement](http://www.medialit.org/reading-room/seven-great-debates-media-literacy-movement-circa-2001)
+{{% resource_link "e6c1e4fa-4305-4180-bd3b-fc7c42790b2b" "Key Debates in the Media Literacy Movement" %}}
 
-[Kids and Commercialism: Center for a New American Dream](https://newdream.org/kids-and-commercialism)
+{{% resource_link "2f03461a-ac04-4a6e-902d-3026f74945df" "Kids and Commercialism: Center for a New American Dream" %}}
 
-[NAACP Image Awards](http://www.naacpimageawards.net/)
+{{% resource_link "1fb42774-99cd-49b4-aebd-fec0ef14d9ec" "NAACP Image Awards" %}}
 
-[National Asian American Telecommunications Association](http://media411.tvjobs.com/cgi-bin/search.cgi?Z=&c=9&k=1832)
+{{% resource_link "03119bfa-70ed-437d-842f-663a4eb9bd8a" "National Asian American Telecommunications Association" %}}
 
-[National Organization For Women Mediawatch](https://web.archive.org/web/20130423210753/https://now.org/nnt/spring-2000/watchout.html)
+{{% resource_link "ac0f5384-4616-464a-8a13-0feef2fa07f2" "National Organization For Women Mediawatch" %}}
 
-[Glaad Media Watch](https://glaad.org/)
+{{% resource_link "7eeceda1-dcc3-407f-b5c1-99d0b1b6bb3c" "Glaad Media Watch" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **II. Comparative Media Over Time**
@@ -138,12 +138,12 @@ Hall, Stuart, et al. "The Social Production of News." In *Media Studies: A Reade
 
 Habermas, Jurgen. "The Public Sphere: An Encyclopedia Article." In *Critical Theory and Society: A Reader.* Edited by Stephen E. Bronner, and Douglas Kellner. New York: Routledge, 1989. Pp. 136-142.
 
-McChesney, Robert W. "[Journalism, Democracy, … and Class Struggle](http://monthlyreview.org/2000/11/01/journalism-democracy-and-class-struggle/)." *Monthly Review* 52, no. 6 (November 2000): 1-15.
+McChesney, Robert W. "{{% resource_link "9a38a06e-c693-4262-a4a2-b39228104834" "Journalism, Democracy, … and Class Struggle" %}}." *Monthly Review* 52, no. 6 (November 2000): 1-15.
 
 Screening/Discussion Section: Written Media: The Press: Frameworks and Biases in Presenting Information       
 Documentary Film Screening
 
-["Journalism, Democracy, … and Class Struggle"](http://monthlyreview.org/2000/11/01/journalism-democracy-and-class-struggle/)
+{{% resource_link "9a38a06e-c693-4262-a4a2-b39228104834" "\"Journalism, Democracy, … and Class Struggle\"" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10-11
@@ -176,9 +176,9 @@ Sontag, Susan. *On Photography.* (Excerpt)
 
 Selected Photographs of Lewis Hine and Jacob Riis.
 
-[Susan Sontag, On Photography-excerpt](http://www.susansontag.com/SusanSontag/books/onPhotography.shtml)
+{{% resource_link "0444a15a-bfe8-4fcf-a972-79e5a559e758" "Susan Sontag, On Photography-excerpt" %}}
 
-[Photographs of Lewis Hine](http://www.historyplace.com/unitedstates/childlabor)
+{{% resource_link "4320176f-9582-4a76-8740-53e6e2351c60" "Photographs of Lewis Hine" %}}
 
 Photographs of Jacob Riis
 
@@ -246,14 +246,14 @@ Lecture: Stephen Brophy
 
 Lab/Screening/Discussion Section: *The Man Who Would Be King.*
 
-[The Man Who Would be King](http://www.classicreader.com/read.php/bookid.2975/sec.1/)
+{{% resource_link "62767e5c-1503-49db-b4e1-c05c3f8f638c" "The Man Who Would be King" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
 Broadcasting: Radio and Television: The Public Interest, Public Entertainment and the Commercial Imperative
 {{< tdclose >}}{{< tdopen >}}
-[The Trouble With Television](http://tlweb.latrobe.edu.au/humanities/screeningthepast/firstrelease/fir998/WUfr4b.htm)
+{{% resource_link "485a6b96-cc41-43c4-b0a1-456a7562e2bb" "The Trouble With Television" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
@@ -270,7 +270,7 @@ Arnheim, Rudolf. "A Forecast of Television." In *Film as Art.* Berkeley: Univers
 
 Williams, Raymond. "Programming: Distribution and Flow." In *Television and Cultural Form.* Hanover: Wesleyan University Press, 1993 (rpt: 1976). Pp. 72-112.
 
-Uricchio, William. "[The Trouble With Television](http://tlweb.latrobe.edu.au/humanities/screeningthepast/firstrelease/fir998/WUfr4b.htm)." In *Screening the Past: An International Electronic Journal of Visual Media and History* 4 (1998).
+Uricchio, William. "{{% resource_link "485a6b96-cc41-43c4-b0a1-456a7562e2bb" "The Trouble With Television" %}}." In *Screening the Past: An International Electronic Journal of Visual Media and History* 4 (1998).
 
 Grey, Herman. "The Politics of Representation in Network Television." In *Watching Race: Television and the Struggle for 'Blackness'.* Minneapolis: University of Minnesota Press, 1995. Pp. 70-92.
 
@@ -287,13 +287,13 @@ Wyatt, Justin. "From Roadshowing to Saturation Release: Majors, Independents and
 
 Lewis, Jon. "Money Matters: Hollywood in the Corporate Era." In *The New American Cinema.* Pp. 87-121.
 
-[Supplementary: Hbo Online](http://www.hbo.com/)
+{{% resource_link "e6acf8d9-c072-4b66-a542-1209f4b6f341" "Supplementary: Hbo Online" %}}
 
 Supplementary: Association Of Independent Video And Filmmakers
 
-[Supplementary: Sundance Institute](http://www.sundance.org/)
+{{% resource_link "721f12fc-e07c-4955-95b3-6a0f97750894" "Supplementary: Sundance Institute" %}}
 
-[Supplementary: Sundance Channel](http://www.sundancechannel.com/)
+{{% resource_link "cd73133f-d13c-425c-97d4-c3e5619374f6" "Supplementary: Sundance Channel" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25-26
@@ -319,7 +319,7 @@ Gilder, George. *Life After Television.* New: Norton, 1994. Pp. 35-49.
 
 Katz, John. "The Birth of a Digital Nation." In *Media Rants: Postpolitics in the Digital Nation.* San Francisco: HardWired, 1997. Pp. 50-58.
 
-Barlow, John Perry. "[The Declaration of Independence in Cyberspace](http://www.eff.org/~barlow)."
+Barlow, John Perry. "{{% resource_link "0d011a60-731b-4759-be4f-12b62573100c" "The Declaration of Independence in Cyberspace" %}}."
 
 Landow, George. "Reconfiguring Narrative." In *Hypertext.* Baltimore: John Hopkins, 1992.
 
@@ -329,14 +329,14 @@ Murray, Janet. "Restructuring Space, Time, Story and Text in Advanced Multimedia
 
 Schank, R., M. Jona. "Empowering the Student: New Perspectives on the Design of Teaching Systems." *Journal of the Learning Sciences* (January 1991): 7-35.
 
-[The Media and 9/11](http://web.mit.edu/cms/reconstructions/)
+{{% resource_link "c506ef17-b194-44be-873d-d3fbe5153053" "The Media and 9/11" %}}
 
-[Links To Lecture 27 Presentations](http://web.mit.edu/cms/Projects/index.html)
+{{% resource_link "0989020d-48f5-4280-afd6-2402b795f033" "Links To Lecture 27 Presentations" %}}
 
 Monday Lab: Panel/Discussion Section: Panel: Educational Applications of Digital Technology       
 Speakers: Profs. Peter Donaldson, Kurt Fendt, Edward Barrett, Wyn Kelley
 
-[Links To Lecture 27 Presentations](http://web.mit.edu/cms/Projects/index.html)
+{{% resource_link "0989020d-48f5-4280-afd6-2402b795f033" "Links To Lecture 27 Presentations" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 29-30
